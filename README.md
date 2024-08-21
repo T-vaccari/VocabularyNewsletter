@@ -1,6 +1,7 @@
 # Daily Vocabulary Newsletter
 
 Welcome to the Daily Vocabulary Newsletter application! This project is designed to send daily vocabulary emails to recipients based on data stored in Google Sheets and Google Docs. The email includes vocabulary words and their meanings, formatted in HTML.
+A deeper view [here](https://t-vaccari.github.io/jekyll/update/2024/08/21/EnglishNewsletter.html)
 
 ## Overview
 
